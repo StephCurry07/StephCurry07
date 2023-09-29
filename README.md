@@ -5,7 +5,7 @@
 - 📫 How to reach me ...Why?
 
 <div align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"</img>
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width = 350 height = 300</img>
 </div>
 
 <div id="badges">
