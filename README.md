@@ -1,7 +1,6 @@
 <h1>
   hey there
   <img src="https://media.giphy.com/media/11G3BfpcEsLjc4/giphy.gif" width="30px"/>
-  
 </h1>
 
 - 👋 Hi, I’m @StephCurry07
@@ -26,7 +25,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB"  alt="mongoDB" width="40" height="40"/>&nbsp;
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
 ### Blog Posts
@@ -46,7 +45,7 @@ Feel free to reach out and say hello! 😊
 </div>
 
 ### Statistics
-![Apoorv's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephCurry07&show_icons=true&theme=radical) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StephCurry07&theme=radical)
+![Apoorv's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephCurry07&show_icons=true&theme=radical) &nbsp; ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StephCurry07&theme=radical)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephCurry07&layout=compact&theme=radical" alt="Top Langs">
