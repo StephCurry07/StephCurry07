@@ -46,7 +46,7 @@ Feel free to reach out and say hello! 😊
 
 ### Statistics
 <img src = "https://github-readme-stats.vercel.app/api?username=StephCurry07&show_icons=true&theme=radical" width = "450px"> &nbsp; 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StephCurry07&theme=radical)
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=StephCurry07&theme=radical" width = "400px">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephCurry07&layout=compact&theme=radical" alt="Top Langs">
