@@ -58,8 +58,8 @@ Feel free to reach out and say hello! 😊
 
 ### Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StephCurry07&show_icons=true&theme=radical" style="display: inline;">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=StephCurry07&theme=radical" style="display: inline;">
+  <img src="https://github-readme-stats.vercel.app/api?username=StephCurry07&show_icons=true&theme=radical">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=StephCurry07&theme=radical">
 </div>
 
 
