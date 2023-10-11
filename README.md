@@ -72,7 +72,7 @@ Feel free to reach out and say hello! 😊
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephCurry07&layout=compact&theme=radical" alt="Top Langs">
 </div>
 
-
+[![An image of @stephcurry07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stephcurry07)](https://holopin.io/@stephcurry07)
 
 Thanks for visiting my GitHub profile!
 
