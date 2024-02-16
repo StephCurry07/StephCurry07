@@ -20,12 +20,12 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="40" height="40"> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" height="40"> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="40" height="40"> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title=Ubuntu alt=Ubuntu width="40" height="40"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title=Tensorflow alt=Tensorflow width="40" height="40"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title=Rust alt=Rust width="40" height="40"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title=RStudio alt=RStudio width="40" height="40"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title=React alt=React width="40" height="40"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title=RPi alt=Raspberry Pi width="40" height="40"> &nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
