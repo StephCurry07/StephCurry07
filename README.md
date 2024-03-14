@@ -25,6 +25,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title=Rust alt=Rust width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title=RStudio alt=RStudio width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title=React alt=React width="40" height="40"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title=NextJS alt=Next width="40" height="40"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title=TailwindCSS alt=Tailwind width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title=RPi alt=Raspberry Pi width="40" height="40"> &nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
