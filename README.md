@@ -77,8 +77,11 @@ Feel free to reach out and say hello! 😊
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephCurry07&layout=compact&theme=radical" alt="Top Langs">
 </div>
 
-[![StephCurry07's GitHub | Stats](https://stats.quine.sh/StephCurry07/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=StephCurry07)
-[![StephCurry07's GitHub | Dependencies](https://stats.quine.sh/StephCurry07/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=StephCurry07)
+<div align="center">
+  [![StephCurry07's GitHub | Stats](https://stats.quine.sh/StephCurry07/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=StephCurry07)
+  [![StephCurry07's GitHub | Dependencies](https://stats.quine.sh/StephCurry07/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=StephCurry07)
+</div>
+
 [![An image of @stephcurry07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stephcurry07)](https://holopin.io/@stephcurry07)
 
 Thanks for visiting my GitHub profile!
