@@ -78,7 +78,8 @@ Feel free to reach out and say hello! 😊
 </div>
 
 <div align="center">
-   <img src="https://stats.quine.sh/StephCurry07/github?theme=dark"
+  [![StephCurry07's GitHub | Stats](https://stats.quine.sh/StephCurry07/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=StephCurry07)
+  [![StephCurry07's GitHub | Dependencies](https://stats.quine.sh/StephCurry07/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=StephCurry07)
 </div>
 
 [![An image of @stephcurry07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stephcurry07)](https://holopin.io/@stephcurry07)
