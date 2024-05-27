@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/11G3BfpcEsLjc4/giphy.gif" width="30px"/>
 </h1>
 
-- 👋 Hi, I’m @StephCurry07
+- 👋 Hi, I’m Apoorv Gupta
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Hackathons
+- 🌱 Learn to Grow, Grow to Learn!!!
+- 💞️ I’m looking to collaborate on Hackathons/events
 - 📫 How to reach me ...Why?
 
 <div align="center">
