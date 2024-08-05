@@ -50,22 +50,7 @@
   <img src = "https://media.giphy.com/media/dLmEzHozhc9WbTkwPa/giphy.gif"/>
 </div>
 
-### Connect
-Feel free to reach out and say hello! 😊
-<div id="badges">
-  <a href="https://www.linkedin.com/in/apoorv-gupta07">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@apoorvgupta-07">
-    <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="https://stackoverflow.com/users/16465669/apoorv-gupta">
-    <img src="https://img.shields.io/badge/StackOverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
-  </a>
-  <a href="https://leetcode.com/Steph_Curry07/">
-    <img src="https://img.shields.io/badge/leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-</div>
+
 
 ### Statistics
 <div align = "center">
@@ -87,10 +72,35 @@ Feel free to reach out and say hello! 😊
   </a>
 </div>
 
-
+### Hacktoberfest
 [![An image of @stephcurry07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stephcurry07)](https://holopin.io/@stephcurry07)
 
+### GSSoC
+<img src="https://github.com/user-attachments/assets/f40a9bdd-5c57-4dde-8372-be94d5d35334" width="200">
+<img src="https://github.com/user-attachments/assets/3975f6cc-cb99-4e22-8c94-f3cbbc60c9a1" width="200">
+<img src="https://github.com/user-attachments/assets/d221a462-ce2d-473d-94d1-912ae9c2d275" width="200">
+<img src="https://github.com/user-attachments/assets/5c91f42b-ab30-48d2-8149-eba201495323" width="200">
+<img src="https://github.com/user-attachments/assets/c7c0a2d3-f32d-4546-bbc7-d881485b47ed" width="200">
+<img src="https://github.com/user-attachments/assets/727cec6c-5902-4af5-86e5-72333ccf95a2" width="200">
+
 Thanks for visiting my GitHub profile!
+
+### Connect
+Feel free to reach out and say hello! 😊
+<div id="badges">
+  <a href="https://www.linkedin.com/in/apoorv-gupta07">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@apoorvgupta-07">
+    <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/16465669/apoorv-gupta">
+    <img src="https://img.shields.io/badge/StackOverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
+  </a>
+  <a href="https://leetcode.com/Steph_Curry07/">
+    <img src="https://img.shields.io/badge/leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</div>
 
 <!---
 StephCurry07/StephCurry07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
