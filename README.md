@@ -113,9 +113,6 @@ Feel free to reach out and say hello! 😊
   <a href="https://stackoverflow.com/users/16465669/apoorv-gupta">
     <img src="https://img.shields.io/badge/StackOverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
-  <a href="https://leetcode.com/Steph_Curry07/">
-    <img src="https://img.shields.io/badge/leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
 </div>
 
 <!---
