@@ -119,21 +119,34 @@ Cloud & DevOps
 └── Infrastructure
 
 ```
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-statspro.vercel.app/api/stats/StephCurry07?theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=StephCurry07&theme=radical" />
-</div>
 
-<div align="center">
-  <img
-    src="https://github-statspro.vercel.app/api/languages/StephCurry07?theme=radical&layout=default"
-    alt="Languages Card"
-  />
+<table>
+<tr>
+<td width="53.7%" align="center">
+
+<img src="https://github-statspro.vercel.app/api/stats/StephCurry07?theme=radical" width="100%" alt="GitHub Stats"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-statspro.vercel.app/api/languages/StephCurry07?theme=radical&layout=default" width="100%" alt="Top Languages"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=StephCurry07&theme=radical" width="100%" alt="GitHub Streak"/>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
