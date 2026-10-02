@@ -161,9 +161,6 @@ Cloud & DevOps
 
 > I write about things I'm learning, building, and breaking along the way.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dLmEzHozhc9WbTkwPa/giphy.gif"/>
-</div>
 
 ### [GPU Parallelization Isn't Just Moving Code to the GPU](https://the-inference-layer.hashnode.dev/gpu-parallelization-isn-t-just-moving-code-to-the-gpu)
 
